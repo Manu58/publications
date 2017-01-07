@@ -1,6 +1,6 @@
 # publications
 
-  1. Marc Emanuel. [“Calculation of threepoint functions of chiral primaries in a symmetric orbifold.”](https://staff.fnwi.uva.nl/j.deboer/education/projects/projects/threept.pdf). MAthesis. UvA, 2005.
+  1. Marc Emanuel. [“Calculation of threepoint functions of chiral primaries in a symmetric orbifold.”](https://staff.fnwi.uva.nl/j.deboer/education/projects/projects/threept.pdf). MAthesis. UvA, 2005. [pdf](files/threept.pdf)
   2. Marc Emanuel et al. [“Buckling of stiff polymers: Influence of thermal fluctuations.”](http://dx.doi.org/10.1103/PhysRevE.76.061907) In: Physical Revuew E76.6 (Dec. 2007), p. 61907.
   3. Marc Emanuel et al. [“The physics behind the larger scale organization of DNA in eukaryotes.”](http://dx.doi.org/10.1088/1478-3975/6/2/025008) In: Physical Biology 6.2 (Jan. 2009), p. 25008.
   4. Marc David Emanuel. [“The effect of thermal fluctuations on elastic instabilities of biopolymers.”](http://hdl.handle.net/1887/19173) PhD thesis. Leiden University, 2012. isbn: 9789085931287. 
