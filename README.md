@@ -9,6 +9,8 @@
   7. Marc Emanuel. [“On the confinement of semiflexible chains under torsion.”](http://dx.doi.org/10.1063/1.4775585) In: J Chem Phys 138.3 (2013), p. 034903.[pdf](files/7.pdf)
   8. Marc Emanuel, Giovanni Lanzani, and Helmut Schiessel. [“Multiplectoneme phase of double-stranded DNA under torsion.”](http://dx.doi.org/10.1103/PhysRevE.88.022706) In: Physical Review E 88.2 (Aug. 2013), p. 022706.[pdf](files/8.pdf)
   9. Marc Emanuel. Technical analysys of occupancy by sensors. confidential. trakkies b.v., 2016.
+  10. Marc D. Emanuel, Andrey G. Cherstvy, Ralf Metzler, and Gerhard Gompper. ["Buckling transitions and soft-phase invasion of two-component icosahedral shells
+"](http://dx.doi.org/10.1103/PhysRevE.102.062104) In: Physical Review E 102.6 (Dec. 2020), p. 062104.[pdf](files/9.pdf)
 
 
 
